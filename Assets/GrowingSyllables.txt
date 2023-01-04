@@ -1,0 +1,16 @@
+b;salut2;0,5;2
+s;salut2;0,5
+b;chantons3;0,5;3
+s;chantons3;0,5
+b;rigoler4;0,5;4
+s;rigoler4;0,5
+b;manger5;0,5;5
+s;manger5;0,5
+b;marie6;0,5;6
+s;marie6;0,5
+b;soir7;0,5;7
+s;soir7;0,5
+b;sophie8;0,5;8
+s;sophie8;0,5
+b;tableau9;0,5;9
+s;tableau9;0,5
