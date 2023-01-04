@@ -59,19 +59,32 @@ public class SyllabesColoration : MonoBehaviour
             if (countSyllabes >= textSyllabes.GetLength(1) || textSyllabes[lign, countSyllabes] == -1)
             {
                 lign += 1;
+                if (lign >= text.Length)
+                {
+                    lign = 0;
+                }
                 for (int i = 0; i < TextDisplay.textInfo.characterCount; i++)
                 {
                     ChangeColorCharacter(i, UnityEngine.Color.black);
                 }
                 countLetters = 0;
                 countSyllabes = 0;
+                for (int i = 0; i < countLetters + textSyllabes[lign, countSyllabes]; i++)
+                {
+                    ChangeColorCharacter(i, color);
+                }
+                countLetters += textSyllabes[lign, countSyllabes];
+                countSyllabes += 1;
             }
-            for (int i = 0; i < countLetters + textSyllabes[lign, countSyllabes]; i++)
+            else
             {
-                ChangeColorCharacter(i, color);
+                for (int i = 0; i < countLetters + textSyllabes[lign, countSyllabes]; i++)
+                {
+                    ChangeColorCharacter(i, color);
+                }
+                countLetters += textSyllabes[lign, countSyllabes];
+                countSyllabes += 1;
             }
-            countLetters += textSyllabes[lign, countSyllabes];
-            countSyllabes += 1;
             ManipulandumPressed = true;
         }
         if ((float)Manipulandum_data_aquired.Force_Data[1] < GameObject.Find("GameManager").GetComponent<Parameters>().ManipulandumSensiRelease)

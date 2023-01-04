@@ -886,3 +886,35 @@ Absolute Error Mean: 1,58125
 NEW RESULT
 
 [ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
