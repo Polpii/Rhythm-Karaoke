@@ -20,7 +20,7 @@ public class Beat : MonoBehaviour
     {
         counter = 0;
         restart = false;
-        start = false;
+        start = true;
         path = @"C:\Users\paul-\UnityProject\Test_Link_Max&Unity\Assets\Beats\";
         fileName = GameObject.Find("GameManager").GetComponent<Parameters>().FileName;
         braker = GameObject.Find("GameManager").GetComponent<Parameters>().braker;
@@ -28,7 +28,8 @@ public class Beat : MonoBehaviour
         timer = (float)(Single.Parse(text[0]) / braker);
         pianoSound = GetComponent<AudioSource>();
         pianoSound.volume = 0.5f;
-        pianoSound.time = 0.169f;
+        //pianoSound.time = 0.169f;
+        pianoSound.time = 0f;
     }
     void Update()
     {
@@ -69,7 +70,8 @@ public class Beat : MonoBehaviour
     private void StopAudio()
     {
         pianoSound.Stop();
-        pianoSound.time = 0.169f;
+        //pianoSound.time = 0.169f;
+        pianoSound.time = 0f;
     }
     void Restart()
     {

@@ -53,6 +53,10 @@ public class Counter : MonoBehaviour
         {
             Restart();
         }
+        if (Input.GetMouseButtonDown(0)) // ICI
+        {
+            Restart();
+        }
         if (Input.GetKeyDown("p"))
         {
             counter += 1;
@@ -67,6 +71,10 @@ public class Counter : MonoBehaviour
         if ((float)Manipulandum_data_aquired.Force_Data[1] < GameObject.Find("GameManager").GetComponent<Parameters>().ManipulandumSensiRelease)
         {
             ManipulandumPressed = false;
+        }
+        if (counter >= circleNumber)
+        {
+            counter = 0;
         }
         for (int i = 0; i < circleNumber; i++)
         {

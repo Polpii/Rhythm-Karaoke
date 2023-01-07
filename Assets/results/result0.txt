@@ -918,3 +918,698 @@ NEW RESULT
 NEW RESULT
 
 [ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4319334 0,785845 1,86526 4,385921 6,678292 7,221282 7,680687 9,032879 9,392109 9,756492 10,32474 10,83692 11,32757 11,79217 11,97908 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,06806663 0,02584505 0,4952598 2,455921 4,438293 4,501283 4,750688 
+Absolute Error Mean: 2,091919
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4522909 0,668471 1,075024 1,605722 1,797353 2,157382 2,331613 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,04770911 0,09152901 0,2949759 0,324278 0,4426475 0,5626183 0,5983868 
+Absolute Error Mean: 0,2952681
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,3736378 0,6473049 1,151501 1,604266 1,850783 2,107478 2,266976 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,1263622 0,1126951 0,2184989 0,3257341 0,3892173 0,6125219 0,6630244 
+Absolute Error Mean: 0,3060067
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4543832 0,7473248 1,237837 1,67302 1,894333 2,143936 2,357357 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,04561678 0,01267523 0,1321633 0,2569803 0,345667 0,5760639 0,5726428 
+Absolute Error Mean: 0,2427262
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4336971 0,7415292 1,199665 1,659911 1,921338 2,309042 2,511481 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,06630293 0,01847076 0,1703351 0,2700893 0,318662 0,4109578 0,4185188 
+Absolute Error Mean: 0,2091671
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4593812 0,8282319 1,280708 1,826483 2,025113 73,99702 75,05198 75,49007 75,89216 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,04061884 0,06823194 0,08929217 0,1035167 0,2148874 71,27702 72,12198 
+Absolute Error Mean: 17,98944
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,7014782 0,9103733 1,331898 1,877155 2,307275 2,574061 2,997582 3,984694 4,600318 4,825429 5,099335 5,394599 6,781263 7,109587 7,327515 7,541743 7,785899 8,033579 8,256229 8,478729 9,782073 10,00875 10,1984 10,36354 10,55693 10,80286 11,09376 18,11289 18,31391 18,51331 18,70722 18,94868 19,20141 26,35484 26,67274 26,83478 27,01039 27,28817 27,56041 27,75168 28,01805 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,2014782 0,1503733 0,03810155 0,05284488 0,06727481 0,1459386 0,06758189 
+Absolute Error Mean: 0,09044916
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5231138 0,9041127 1,503175 2,047041 2,495243 2,986622 4,480519 4,708146 5,015761 5,423087 5,967717 6,179316 6,401192 6,848982 8,33331 8,8921 9,178127 9,519885 9,947477 10,18738 10,45623 10,78315 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,02311379 0,1441127 0,1331747 0,1170408 0,2552426 0,2666218 1,550519 
+Absolute Error Mean: 0,3112282
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,6002989 0,8021194 1,09509 1,60825 1,79918 2,083617 2,466166 3,06253 3,444502 3,628701 3,97481 4,556524 4,853554 5,504901 5,998252 6,541148 7,127851 7,648654 8,084588 8,432076 8,850101 9,390756 9,950358 10,33459 10,6525 10,97267 11,32544 11,83049 40,82867 40,99351 41,19725 41,37847 41,55654 41,74665 41,92834 42,12203 42,3243 42,5088 42,68813 42,85859 43,03814 43,20036 43,35833 43,53061 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,1002989 0,04211938 0,2749103 0,3217503 0,4408202 0,6363826 0,4638338 
+Absolute Error Mean: 0,2850145
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 
+Absolute Error Mean: 1,58125
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,480446 0,7468022 1,236665 1,882182 2,174256 2,409333 2,665015 3,18284 3,544994 3,879801 4,372472 4,872814 5,143341 5,727911 6,546706 6,797881 7,126964 7,497321 7,918287 8,129288 8,331797 8,543874 8,732488 9,023229 9,228538 9,445793 9,671274 9,944942 10,22232 10,48886 10,7635 11,18548 11,44381 11,80668 12,2688 12,75797 13,27484 13,7196 14,01212 14,26968 14,48797 14,7573 15,11342 15,39471 15,62095 15,84971 16,09549 16,37563 16,60245 16,81302 17,01349 17,19741 17,37901 17,58237 17,77308 17,96945 18,15689 18,3481 18,51205 18,68716 18,8495 19,02586 19,21678 19,37816 19,7008 19,9373 20,18627 21,20601 21,46998 21,89005 22,48138 23,05138 23,3041 23,58424 23,77352 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,01955402 0,01319778 0,1333345 0,04781806 0,0657444 0,3106673 0,2649848 
+Absolute Error Mean: 0,1069126
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 1,026055 1,324071 1,633841 2,38264 2,731117 3,033742 3,582181 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,526055 0,5640709 0,2638406 0,4526402 0,491117 0,3137424 0,6521807 
+Absolute Error Mean: 0,4079559
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,7452546 1,088277 1,575234 2,081859 2,688434 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,2452546 0,3282766 0,2052339 0,1518592 0,4484336 
+Absolute Error Mean: 0,8786323
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,6825674 0,8858121 1,32506 1,912707 2,269995 2,580169 2,795425 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,1825674 0,1258121 0,04493952 0,0172925 0,02999496 0,1398308 0,1345749 
+Absolute Error Mean: 0,08437653
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4612612 0,7455618 1,111367 1,722118 2,126948 2,373928 2,698976 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,03873885 0,01443821 0,2586328 0,2078817 0,1130517 0,3460722 0,2310238 
+Absolute Error Mean: 0,1512299
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ b ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4340521 0,698506 1,150817 1,603296 1,802729 2,161386 2,372708 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,06594789 0,06149399 0,2191833 0,3267037 0,4372712 0,5586145 0,5572917 
+Absolute Error Mean: 0,2783133
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4443386 0,8443636 1,392952 1,972554 2,204355 2,47513 2,666469 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,05566138 0,08436358 0,0229516 0,04255366 0,03564453 0,2448697 0,2635307 
+Absolute Error Mean: 0,0936969
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,4289148 0,7666272 1,347371 1,859563 2,111622 2,379504 2,546319 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,07108516 0,006627202 0,0226295 0,07043648 0,1283784 0,3404963 0,3836806 
+Absolute Error Mean: 0,1279167
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+[ s ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,452504 0,7711302 1,334456 1,846931 2,15351 2,441347 2,592606 
+[ e ;  jungle8 ; breaker: 1,0 ] --> 0 0,04749599 0,01113021 0,0355438 0,08306921 0,08648968 0,2786531 0,3373942 
+Absolute Error Mean: 0,109972
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
+
+NEW RESULT
+
+[ p ;  jungle8 ; breaker: 1,0 ] --> 0,2 0,5 0,76 1,37 1,93 2,24 2,72 2,93 
