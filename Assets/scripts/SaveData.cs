@@ -15,10 +15,12 @@ public class SaveData : MonoBehaviour
     string[] text2;
     float braker;
     string fileTitleResults;
+    string fileTitlePythonResults;
     int fileNumber;
     string result;
     string perfectResult;
     string errorsResult;
+    string pythonResults;
     float[] errors;
     bool pause;
     int counter;
@@ -38,6 +40,7 @@ public class SaveData : MonoBehaviour
         pause = true;
         fileNumber = 0;
         fileTitleResults = "result" + Convert.ToString(fileNumber);
+        fileTitlePythonResults = "pythonResults";
         path = @"C:\Users\paul-\UnityProject\Test_Link_Max&Unity\Assets\Beats\";
         fileName = GameObject.Find("GameManager").GetComponent<Parameters>().FileName;
         braker = GameObject.Find("GameManager").GetComponent<Parameters>().braker;
@@ -54,6 +57,7 @@ public class SaveData : MonoBehaviour
         result = "[ " + lign[0] + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
         perfectResult = "[ p" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
         errorsResult = "[ e" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
+        pythonResults = lign[0] + ";";
         errors = new float[text.Length];
         for(int i = 0; i < text.Length; i++)
         {
@@ -100,6 +104,7 @@ public class SaveData : MonoBehaviour
             {
                 errors[counter] = Math.Abs(errors[counter] - timer);
                 errorsResult += Convert.ToString(errors[counter]) + " ";
+                pythonResults += Convert.ToString(errors[counter]) + ";";
                 counter++;
             }
             result += Convert.ToString(timer) + " ";            
@@ -111,6 +116,7 @@ public class SaveData : MonoBehaviour
             {
                 errors[counter] = Math.Abs(errors[counter] - timer);
                 errorsResult += Convert.ToString(errors[counter]) + " ";
+                pythonResults += Convert.ToString(errors[counter]) + ";";
                 counter++;
             }
             result += Convert.ToString(timer) + " ";
@@ -125,6 +131,7 @@ public class SaveData : MonoBehaviour
             counter = 0;
             WriteString(result, fileTitleResults);
             WriteString(errorsResult, fileTitleResults);
+            WriteString(pythonResults, fileTitlePythonResults);
             WriteString(Convert.ToString("Absolute Error Mean: " + Average(errors)), fileTitleResults);
             if (lign[0] == "b")
             {
@@ -157,6 +164,7 @@ public class SaveData : MonoBehaviour
             timer = Single.Parse(text[0]) / braker;
             perfectResult = "[ p" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
             errorsResult = "[ e" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
+            pythonResults = lign[0] + ";";
             errors = new float[text.Length];
             for (int i = 0; i < text.Length; i++)
             {
@@ -171,6 +179,7 @@ public class SaveData : MonoBehaviour
             counter = 0;
             WriteString(result, fileTitleResults);
             WriteString(errorsResult, fileTitleResults);
+            WriteString(pythonResults, fileTitlePythonResults);
             WriteString(Convert.ToString("Absolute Error Mean: " + Average(errors)), fileTitleResults);
             if (lign[0] == "b")
             {
@@ -189,6 +198,7 @@ public class SaveData : MonoBehaviour
             pause = true;
             perfectResult = "[ p" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
             errorsResult = "[ e" + " ; " + " " + lign[1] + " ; breaker: " + lign[2] + " ] --> ";
+            pythonResults = lign[0] + ";";
             errors = new float[text.Length];
             for (int i = 0; i < text.Length; i++)
             {

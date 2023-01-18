@@ -85,8 +85,9 @@ public class Beat : MonoBehaviour
         timer = (float)(Single.Parse(text[0]) / braker);
         pianoSound = GetComponent<AudioSource>();
         pianoSound.volume = 0.5f;
-        pianoSound.time = 0.169f;
+        pianoSound.time = 0f;
     }
+    
 }
 
 

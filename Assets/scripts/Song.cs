@@ -49,14 +49,14 @@ public class Song : MonoBehaviour
         {
             start = true;
         }
-        if (Input.GetKeyDown("n"))
+        /*if (Input.GetKeyDown("n"))
         {
             start = true;
         }
         if (Input.GetKeyDown("s"))
         {
             start = true;
-        }
+        }*/
     }
 
     private IEnumerator LoadAudio()

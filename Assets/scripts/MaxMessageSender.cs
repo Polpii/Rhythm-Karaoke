@@ -39,7 +39,7 @@ public class MaxMessageSender : MonoBehaviour
             // This restarts the binary mode  
             List<object> msgRestart = new List<object> { "/restart" };
             OSCHandler.Instance.SendMessageToClient("Max", "", msgRestart);
-            OSCHandler.Instance.SendMessageToClient("Max", "/articulationSpeed", 2);
+            OSCHandler.Instance.SendMessageToClient("Max", "/articulationSpeed", 2f);
         }
         else if (Input.GetKeyDown("a"))
         {
@@ -87,6 +87,6 @@ public class MaxMessageSender : MonoBehaviour
         // This restarts the binary mode  
         List<object> msgRestart = new List<object> { "/restart" };
         OSCHandler.Instance.SendMessageToClient("Max", "", msgRestart);
-        OSCHandler.Instance.SendMessageToClient("Max", "/articulationSpeed", 2);
+        OSCHandler.Instance.SendMessageToClient("Max", "/articulationSpeed", 2f);
     }
 }

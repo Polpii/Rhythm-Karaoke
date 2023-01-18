@@ -65,7 +65,8 @@ public class Parameters : MonoBehaviour
     {
         if (Test_Mode && Input.GetKeyDown("n"))
         {
-            NextLine();
+            //NextLine();
+            StartCoroutine(NextLineDelayed(1));
         }
         if (Test_Mode && Input.GetKeyDown("s"))
         {
@@ -156,12 +157,18 @@ public class Parameters : MonoBehaviour
         GameObject.Find("Points").GetComponent<CircleDraw>().enabled = mode;
         GameObject.Find("Points").GetComponent<Counter>().enabled = mode;
         GameObject.Find("Points").GetComponent<Sound>().enabled = mode;
+        GameObject.Find("Points").GetComponent<Sound>().restart = mode;
         GameObject.Find("Points").GetComponent<Beat>().enabled = mode;
         LineRenderer[] LR = GameObject.Find("Points").GetComponentsInChildren<LineRenderer>();
         for(int i = 0; i < LR.Length; i++)
         {
             LR[i].enabled = mode;
         }        
+    }
+    IEnumerator NextLineDelayed(float seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+        nextLine = true;
     }
     public void NextLine()
     {
